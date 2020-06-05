@@ -17,7 +17,7 @@ dependencies {
   compile group: 'org.apache.commons', name: 'commons-compress', version: '1.11'
   compile group: 'io.netty', name: 'netty-codec-http', version: '4.1.39.Final'
   compile group: 'org.yaml', name: 'snakeyaml', version: '1.19'
-  compile group: 'commons-codec', name: 'commons-codec', version: '1.8'
+  compile group: 'commons-codec', name: 'commons-codec', version: '1.14'
   compile group: 'org.codehaus.plexus', name: 'plexus-utils', version: '2.0.3'
   compile group: 'org.apache.struts', name: 'struts2-core', version: '2.0.5'
 }
