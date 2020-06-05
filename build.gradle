@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.google.guava:guava:18.0'
+  compile 'com.google.guava:guava:29.0-jre'
   compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.7.9'
   compile group: 'org.webjars.npm', name: 'async', version: '1.5.0'
   compile group: 'org.apache.commons', name: 'commons-compress', version: '1.11'
